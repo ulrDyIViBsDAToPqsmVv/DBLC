@@ -14,6 +14,7 @@ A simple Bah script designed to facilitate the initial setup for Debian based Li
 
 **USAGE**
 
-Launch the linux-configurator.sh file as sudo
+In order for the script to function you need to launch it as sudo, a few prompts will appear as the script is running along
 
+`sudo sh ~/.linux-configurator.sh`
 
