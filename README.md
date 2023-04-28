@@ -5,7 +5,7 @@ A simple Bah script designed to facilitate the initial setup for Debian based Li
 
 - Update your Linux Distribution
 - Install zsh
-- Install & configure Oh My Zsh
+- Install & configure [Oh My Zsh](https://ohmyz.sh/)
 - Enable a few Oh My Zsh plugins
 - Define Oh My Zsh theme as [Half-Life](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#half-life)
 - Install Vim
